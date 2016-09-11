@@ -11,7 +11,7 @@
     "typescript": "^1.8.10"
   },
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
   },
   "author": "",
   "license": "ISC"
